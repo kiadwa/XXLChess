@@ -1,6 +1,6 @@
 # XXLChess
 XXL Chess build in Java &amp; Java Processing for graphics using Gradle as dependencies management
-This is a project chess game with similar rule to traditional Chess, but only differences are except for the Queen, 
+This is a chess game project with similar rule to traditional Chess, but differences are except for the Queen, 
 player gets 4 different pieces like 
 Camel, Knight King, Amazon, Chancellor with bizzare movement but still following the basic chess game rules such as
 *Check mate
@@ -15,4 +15,4 @@ Level1.txt is the default set up of the chess board.
 
 
 Most of the code for game logic and construct is in src/main
-To run game in your environment, download the src folder, build.gradle and level1.txt and put it in your project directory
+
