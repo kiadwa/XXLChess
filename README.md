@@ -1,5 +1,6 @@
-# XXLChess
-XXL Chess build in Java &amp; Java Processing for graphics using Gradle as dependencies management
+#XXLChess
+XXL Chess build in Java &amp; Java Processing for graphics using Gradle as dependencies management  
+
 This is a chess game project with similar rule to traditional Chess, but differences are except for the Queen, 
 player gets 4 different pieces like 
 Camel, Knight King, Amazon, Chancellor with bizzare movement but still following the basic chess game rules such as
