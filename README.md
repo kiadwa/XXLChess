@@ -2,10 +2,17 @@
 XXL Chess build in Java &amp; Java Processing for graphics using Gradle as dependencies management 
 This is my early Object Oriented Programming project to practice inheritance, encapsulation, algorithm and classes in Java.  
 
+
+## The Game  
 This is a chess game project with similar rule to traditional Chess, but differences are except for the Queen, 
 player gets 4 different pieces like  
-## The Game  
-Camel, Knight King, Amazon, Chancellor with bizzare movement but still following the basic chess game rules such as  
+![image](https://github.com/kiadwa/XXLChess/assets/56657306/403e25fe-53fa-4bd1-a8d6-22cb0f57038a)
+Camel  
+Knight King  
+Amazon  
+Chancellor  
+
+With bizzare movement but still following the basic chess game rules such as  
 
 *Check mate  
 
