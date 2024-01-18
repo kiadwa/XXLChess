@@ -16,8 +16,12 @@ Camel, Knight King, Amazon, Chancellor with bizzare movement but still following
 Each player will have 3 mins of time in their clock respectively and an increment of 2 second when they finished their moves  
 
 ## Control  
-By default, you will play with an AI player, to multiplayer, press M to enable multiplayer
-Press esc to resign
+By default, you will play with an AI player  
+
+To multiplayer, press M to enable multiplayer  
+
+To Resign and stop the game, press Esc  
+
 To restart the game at any moment, press R  
 
 ## Misc    
