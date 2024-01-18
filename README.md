@@ -1,5 +1,5 @@
 ## XXLChess  
-XXL Chess build in Java &amp; Java Processing for graphics using Gradle as dependencies management 
+XXL Chess build in Java &amp; Java Processing for graphics using Gradle as dependencies management  
 This is my early Object Oriented Programming project to practice inheritance, encapsulation, algorithm and classes in Java.  
 
 
